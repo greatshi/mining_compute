@@ -1,10 +1,10 @@
 
-LTC_PRICE = 10000
-LTC_PER_HASH = 0.00015582
-HASH_RATE = 170
+LTC_PRICE = 780
+LTC_PER_HASH = 0.00004781
+HASH_RATE = 220
 round = 3
 hard = 0.97
-KW = 3.3
+KW = 2
 fee = KW * 24 * 3 * 0.25/float(LTC_PRICE)
 earn = 0
 for i in range(0, 300):

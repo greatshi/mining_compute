@@ -6,7 +6,7 @@ BTC_PER_HASH = 0.00003409
 HASH_RATE = 13.5
 round = 13
 hard = 0.93
-KW = 1.3
+KW = 1.4
 electric = 0.3
 fee = KW * 24 * 13 * electric
 
